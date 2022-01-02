@@ -48,7 +48,7 @@ I'm Hyunjoong Kim a front-end developer who
 
 ## Github Stats
 
-![Hongjunland's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongjunland&show_icons=true&theme=vue)
+![Hayagou's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayagou&show_icons=true&theme=vue)
 
 ## Solved.ac
 
