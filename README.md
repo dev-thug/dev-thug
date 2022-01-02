@@ -32,7 +32,7 @@ I'm Hyunjoong Kim a front-end developer who
 
 ### DBMS
 
-![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-%234479A1?style=flat&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 
 ### Tools
