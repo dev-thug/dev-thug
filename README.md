@@ -6,7 +6,7 @@ I'm Hyunjoong Kim a front-end developer who
 * pursue "Simple is the best",
 * absorb something good like a sponge,
 * tries something new.
-* has a technically inquisitive mind (ENTP).
+* has a technically inquisitive mind (ENTJ).
 
 
 ## Tech Stack
