@@ -20,7 +20,7 @@ I'm Hyunjoong Kim a front-end developer who
 ![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### Front-End
-![React](https://img.shields.io/badge/-Angular-%2361DAFB?style=flat&logo=angular&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-%2361DAFB?style=flat&logo=angular&logoColor=black)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/-Vue-%234FC08D?style=flat&logo=vue.js&logoColor=black)
 ![Android](https://img.shields.io/badge/-Android-%233DDC84?style=flat&logo=android&logoColor=white)
