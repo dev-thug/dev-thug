@@ -26,10 +26,13 @@ I'm Hyunjoong Kim a front-end developer who
 ![Android](https://img.shields.io/badge/-Android-%233DDC84?style=flat&logo=android&logoColor=white)
 
 ### Back-End
-
+![node.js](https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=plastic)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=plastic) 
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
 
+### Cloud
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-AWS&logoColor=FFFFFF&style=plastic)
 ### DBMS
 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-%234479A1?style=flat&logo=mariadb&logoColor=white)
