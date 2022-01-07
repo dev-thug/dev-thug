@@ -50,7 +50,7 @@ I'm Hyunjoong Kim a front-end developer who
 
 ## Github Stats
 
-![Hayagou's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayagou&show_icons=true&theme=vue)
+![Hyunjoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-thug&show_icons=true&theme=vue)
 
 ## Solved.ac
 
@@ -63,7 +63,7 @@ I'm Hyunjoong Kim a front-end developer who
 ### Hi there 👋
 
 <!--
-**hayagou/hayagou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dev-thug/dev-thug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
