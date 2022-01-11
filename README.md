@@ -1,7 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayagou&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## Introduce
-### [Self Introduce](https://mountain-sing-970.notion.site/b586d4db9c4a4aadae8b5fd2c7f426be)
 
 
 I'm Hyunjoong Kim a front-end developer who
