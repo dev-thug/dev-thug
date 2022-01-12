@@ -3,7 +3,7 @@
 ## Introduce
 
 
-I'm Hyunjoong Kim a front-end developer who
+I'm Hyunjoong Kim a full-stack developer who
 * pursue "Simple is the best",
 * absorb something good like a sponge,
 * tries something new.
