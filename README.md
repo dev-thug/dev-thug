@@ -50,12 +50,11 @@ I'm a full-stack web developer who
 ![Anaconda](https://img.shields.io/badge/-Anaconda-%2344A833?style=flat&logo=Anaconda&logoColor=white)
 
 ## Github Stats
-<div align=center>
 
-![Hyunjoong's github stats](https://github-readme-stats.vercel.app/api?username=dev-thug&show_icons=true&theme=radical)
+
+![Hyunjoong's github stats](https://github-readme-stats.vercel.app/api?username=dev-thug&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-thug&layout=compact&theme=dracula)](https://github.com/dev-thug)
 
-</div>
 ## Solved.ac
 
 [![Solved.ac
