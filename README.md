@@ -52,6 +52,9 @@ I'm a full-stack web developer who
 ## Github Stats
 
 ![Hyunjoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-thug&show_icons=true&theme=vue)
+![Hyunjoong's github stats](https://github-readme-stats.vercel.app/api?username=dev-thug&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-thug&layout=compact&theme=dracula)](https://github.com/dev-thug)
+
 
 ## Solved.ac
 
