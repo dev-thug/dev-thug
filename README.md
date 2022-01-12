@@ -42,7 +42,6 @@ I'm a full-stack web developer who
 ### Tools
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white)
 ![intelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=flat&logo=intellijIDEA)
 ![GitHub](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-%23000000?style=flat&logo=PyCharm)
