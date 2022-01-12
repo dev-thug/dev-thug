@@ -48,6 +48,7 @@ I'm a full-stack web developer who
 ![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-%23000000?style=flat&logo=PyCharm)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-%233DDC84?style=flat&logo=androidStudio&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-%2344A833?style=flat&logo=Anaconda&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
 ## Github Stats
 
