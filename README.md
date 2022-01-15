@@ -62,9 +62,6 @@ I'm a front-end web developer who
 
 
 
-
-### Hi there 👋
-
 <!--
 **dev-thug/dev-thug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
