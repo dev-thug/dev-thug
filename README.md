@@ -3,7 +3,7 @@
 ## Introduce
 
 My name is Hyunjoong Kim.  
-I'm a front-end web developer who
+I'm a software engineer who
 * pursue "Simple is the best",
 * absorb something good like a sponge,
 * tries something new.
