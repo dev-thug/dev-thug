@@ -1,66 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayagou&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## Introduce
-
-My name is Hyunjoong Kim.  
+Hello~! My name is Hyunjoong Kim.  
 I'm a software engineer who
 * pursue "Simple is the best",
 * absorb something good like a sponge,
 * tries something new.
 * has a technically inquisitive mind (ENTJ).
-
-
-## Tech Stack
-
-### Language
-
-![Java](https://img.shields.io/badge/-Java-%23007396?style=flat&logo=java&logoColor=white)
-![javascript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-### Front-End
-![Angular](https://img.shields.io/badge/-Angular-%23F05032?style=flat&logo=angular&logoColor=black)
-![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue-%234FC08D?style=flat&logo=vue.js&logoColor=black)
-![Android](https://img.shields.io/badge/-Android-%233DDC84?style=flat&logo=android&logoColor=white)
-
-### Back-End
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=plastic) 
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-%236DB33F?style=flat&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
-
-### Cloud
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-AWS&logoColor=FFFFFF&style=plastic)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-### DBMS
-
-![MariaDB](https://img.shields.io/badge/-MariaDB-%234479A1?style=flat&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=white)
-![intelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=flat&logo=intellijIDEA)
-![GitHub](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-%23000000?style=flat&logo=PyCharm)
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-%233DDC84?style=flat&logo=androidStudio&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Anaconda-%2344A833?style=flat&logo=Anaconda&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
-
-## Github Stats
-
-
-![Hyunjoong's github stats](https://github-readme-stats.vercel.app/api?username=dev-thug&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-thug&layout=compact&theme=dracula)](https://github.com/dev-thug)
-
-## Solved.ac
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zunza96)](https://solved.ac/zunza96)
-
-
 
 <!--
 **dev-thug/dev-thug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
