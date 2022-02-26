@@ -3,7 +3,6 @@
 ## Introduce
 Hello~! My name is Hyunjoong Kim.  
 I'm a software engineer who
-* pursue "Simple is the best",
 * absorb something good like a sponge,
 * tries something new.
 * has a technically inquisitive mind (ENTJ).
