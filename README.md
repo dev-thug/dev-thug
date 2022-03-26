@@ -7,6 +7,7 @@ I'm a software engineer who
 * tries something new.
 * has a technically inquisitive mind (ENTJ).
 
+- 🌱 I’m currently learning amplify and react
 <!--
 **dev-thug/dev-thug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
