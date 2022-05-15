@@ -7,7 +7,11 @@ I'm a software engineer who
 * tries something new.
 * has a technically inquisitive mind (ENTJ).
 
-- 🌱 I’m currently learning amplify and react
+- 🌱 I’m currently learning
+  - amplify
+  - react
+  - graphQL
+  - dynamoDB
 - 📫 How to reach me: de0978@gmail.com
 
 <!--
