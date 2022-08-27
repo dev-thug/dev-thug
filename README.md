@@ -8,10 +8,9 @@ I'm a software engineer who
 * has a technically inquisitive mind (ENTJ).
 
 - 🌱 I’m currently learning
-  - amplify
-  - react
-  - graphQL
-  - dynamoDB
+  - AWS(amplify,appsync dynamodb, lambda, apigateway )
+  - react, nextjs
+  - docker, kubernetetes
 - 📫 How to reach me: de0978@gmail.com
 
 <!--
