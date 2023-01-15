@@ -2,15 +2,8 @@
 
 ## Introduce
 Hello~! My name is Hyunjoong Kim.  
-I'm a software engineer who
-* absorb something good like a sponge,
-* tries something new.
-* has a technically inquisitive mind (ENTJ).
 
-- 🌱 I’m currently learning
-  - AWS(amplify,appsync dynamodb, lambda, apigateway )
-  - react, nextjs
-  - docker, kubernetetes
+
 - 📫 How to reach me: de0978@gmail.com
 
 <!--
